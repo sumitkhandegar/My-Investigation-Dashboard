@@ -9,7 +9,7 @@
     "start": "vite --open",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "format": "prettier --write \"./**/*.ts\"  \"./**/*.tsx\"  \"./**/*.css\" \"./**/*.html\"",
-    "build": "tsc && vite build",
+    "build": "npx tsc && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -44,7 +44,7 @@
     "postcss": "^8.5.3",
     "prettier": "^3.0.3",
     "tailwindcss": "^4.0.8",
-    "typescript": "^5.2.2",
+    "typescript": "^5.7.3",
     "vite": "^4.4.9"
   }
 }
