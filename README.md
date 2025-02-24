@@ -1,7 +1,7 @@
 # React Vite
 
 This project it a skeleton of **React** and **Vite** (and **Typescript**)! It was created to ensure a clean slate, with production grade features such as properly configured **eslint**, using **Vite** and **SWC** for a faster development experience and hot reloads. **Vite** also uses **Rollup** as a bundler, which is much more efficient than standard **Webpack**.
-
+ 
 ## Commands
 
 - npm start - run your project in development mode
